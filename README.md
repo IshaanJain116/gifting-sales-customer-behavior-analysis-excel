@@ -92,15 +92,6 @@ The interactive dashboard provides:
 
 ---
 
-# 📸 Dashboard Preview
-
-## Main Dashboard
-(Add dashboard screenshot here)
-
-## Backend Pivot Table Analysis
-(Add pivot analysis screenshot here)
-
----
 
 # 📁 Project Structure
 
