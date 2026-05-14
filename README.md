@@ -78,17 +78,18 @@ The interactive dashboard provides:
 ---
 
 # 🔍 Key Business Insights
-- Holi and Valentine’s Day generated the highest revenue among all occasions, indicating strong seasonal demand in the gifting market.
 
-- The Soft Toys category contributed the maximum revenue compared to other product categories, making it one of the most profitable segments.
+Anniversary generated the highest revenue among all occasions, followed by Raksha Bandhan and Holi, showing strong occasion-based purchasing behavior.
 
-- Monthly sales performance showed revenue peaks during February and festive periods, highlighting the impact of occasion-based purchasing behavior.
+The Colors category contributed the maximum revenue compared to other product categories, making it the strongest revenue-generating category.
 
-- Average delivery time remained around 6 days, suggesting stable delivery performance across customer orders.
+Monthly revenue peaked during February and August, indicating higher sales during Valentine’s season and Raksha Bandhan period.
 
-- A few products contributed significantly to overall revenue, showing that high-performing products play a major role in business growth.
+Magnam Set, Quia Gift, Dolores Gift, Harum Pack, and Deserunt Box were the top 5 revenue-generating products, showing that a few products contributed significantly to overall sales.
 
-- Certain cities consistently placed higher numbers of orders, indicating potential high-demand regions for targeted marketing and expansion strategies.
+Imphal, Dhanbad, Kavali, Hardwar, and Bidhanagar recorded higher order volumes, making them important cities for targeted marketing.
+
+Revenue by Hour analysis showed higher customer purchasing activity during evening and late-night hours, indicating peak order placement periods during those time ranges.
 
 ---
 
